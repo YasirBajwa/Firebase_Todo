@@ -1,0 +1,21 @@
+body{
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+   
+}
+input,button{
+    
+    padding: 10px;
+
+}
+button{
+    margin-left: 10px;
+}
+
+#list{
+ 
+}
